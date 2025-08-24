@@ -38,4 +38,4 @@ Monorepo con:
 
 ## Archivos
 - Subida de adjuntos con `multer` al directorio `/uploads` del servidor.
-- Descarga con `GET /tasks/:id/attachment` o acceso directo vía `/uploads/...`.
+- Descarga con acceso directo vía `/uploads/...`.
