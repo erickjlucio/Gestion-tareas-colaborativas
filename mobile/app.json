@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Rocnarf Tasks",
+    "slug": "rocnarf-tasks",
+    "version": "1.0.0",
+    "scheme": "rocnarf",
+    "orientation": "portrait",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
