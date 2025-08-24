@@ -5,7 +5,8 @@ dotenv.config();
 
 const sequelize = new Sequelize(process.env.DATABASE_URL, {
   dialect: 'postgres',
-  logging: false
+  logging: false,
+  timezone: "-05:00",
 });
 
 export default sequelize;
